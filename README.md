@@ -4,4 +4,4 @@ parent folder ->
 
 
 1)cub-200-2011   
-2)cbm_reproduction.ipynb
+2)ltn_cbm_cub200.ipynb
